@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AKSI Mobile</string>
+    <string name="konten_hoaks_artc1">Kata hoax [həʊks] baru mulai digunakan sekitar tahun 1808. Kata ini dipercaya berasal dari kata hocus pocus, seperti “simsalabim”, yaitu mantra yang digunakan dalam pertunjukan sulap saat akan terjadi sebuah punch line atau bagian dramatis dalam pertunjukan para pesulap di panggung. Kata hocus sendiri berarti ‘untuk mengelabui’. Dalam KBBI (Kamus Besar Bahasa Indonesia), hoaks dimaknai sebagai ‘berita bohong, berita tidak bersumber’. Nyatanya, makna hoaks tidak sesederhana itu. Menurut Silverman, seorang jurnalis Kanada, hoaks merupakan serangkaian informasi yang memang sengaja disesatkan, namun “dijual” sebagai kebenaran. \n \nHoaks juga identik dengan fake news, yang didefinisikan oleh Werme sebagai berita palsu yang mengandung informasi yang sengaja disesatkan orang dan memiliki agenda politik tertentu. Hoaks bukan sekedar menyesatkan informasi, melainkan juga tidak memiliki landasan faktual, namun disajikan seolah-olah sebagai serangkaian berita. \n \nDi Indonesia, pengertian hoaks dalam makna yang sebenarnya itu akhir-akhir ini turut mendapat penurunan nilai makna tatkala digunakan dalam ranah guyonan, seperti penggunaan ekspresi “No pic, hoax.” yang lebih bermakna ‘jika saya tidak dapat melihat gambarnya, saya tidak suka atau tidak percaya’ dan bukan pada makna yang dirujuk oleh ahli. Sebuah kebohongan dikatakan sebagai hoaks apabila digunakan untuk tujuan tertentu, misalnya untuk mempengaruhi opini publik. Pada situasi saat ini, hoaks digunakan untuk mempengaruhi opini publik terkait tokoh politik.</string>
+    <string name="skorresult_wlcmsg">Terima kasih sudah mengikuti AKSI Bahasa untuk Sekolah</string>
+    <string name="judul_skripsi">Pengembangan Perangkat Lunak Literasi Digital Bahasa: Asesmen Kompetensi Siswa Indonesia AKSI Kelas X Sekolah Menengah Atas Berbasis Android (Studi Kasus Di Puspendik Balitbang Kemendikbud</string>
+
+    <string-array name="list_wacanas">
+        <item>Hoaks</item>
+        <item>Nontunai</item>
+        <item>Glokalisasi</item>
+        <item>Transportasi</item>
+        <item>Robotik</item>
+        <item>Sampah</item>
+        <item>Bencana</item>
+        <item>Internet</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Akhir-akhir ini, kita seringkali mendengar istilah hoax [hoks] atau hoaks digaungkan. Namun, apa sebenarnya yang dimaksud dengan istilah itu? \n Mari kita baca artikel dari “Google” untuk menemukan informasi mengenai hal itu.</item>
+        <item>Hari ini kita akan belajar mengenal sebuah alternatif bertransaksi yang sudah mulai banyak digunakan di dunia, yaitu cara pembayaran yang tidak lagi menggunakan uang, baik uang kertas maupun uang koin. \n Mari kita baca artikel dari “Google” untuk menemukan informasi mengenai hal itu.</item>
+        <item>Apakah kamu pernah mendengar kata glokalisasi sebelumnya? Hari ini kita akan belajar tentang glokalisasi yang terjadi dalam kehidupan dan kebudayaan kita sehari-hari. \n Mari kita mulai membaca artikel dari “Google” untuk mencari informasi di internet tentang glokalisasi.</item>
+        <item>Apakah kamu pernah melihat orang-orang bepergian menggunakan bus, kereta, atau pesawat? Tahukah kamu jika kendaraan tersebut termasuk jenis transportasi umum? Nah, hari ini kita akan belajar lebih banyak transportasi umum. \n Mari kita mulai dengan membaca artikel dari “Google” untuk mencari informasi di internet tentang transportasi umum.</item>
+        <item>Seiring perkembangan ilmu pengetahuan yang pesat, teknologi robot pun makin maju. Saat ini, robot digunakan pada berbagai bidang kehidupan manusia, seperti industri, pertanian, dan kelautan. Robot dapat membantu, bahkan menggantikan pekerjaan manusia. Bagaimanakah peran robot dalam bidang kehidupan manusia? Mari, kita cari tahu! \n Kita akan mencari tahu informasi tentang robotik melalui mesin pencari, Google, di internet. Pertama-tama, kita akan menggali informasi tentang penggunaan robot dalam bidang pertanian dan peternakan.</item>
+        <item>Pernahkah kalian memperhatikan lingkungan sekitar kalian, seperti rumah, jalan, sungai, sekolah? Bersihkah tempat-tempat itu dari sampah? Atau sebaliknya, menumpukkah sampah di tempat itu? Sadarkah kalian bahwa sampah adalah sebuah masalah besar di negara tercinta kita ini? Kali ini, kita akan menggali permasalahan sampah di Indonesia. \n Pertama-tama, kita akan menggali informasi tentang sampah plastik di Indonesia. Perhatikan Infografik Sampah Plastik pada layar di samping.</item>
+        <item>Indonesia memiliki kawasan tropis yang menyimpan banyak sekali kekayaan alam. Bukan hanya masyarakatnya yang terpukau, orang-orang dari berbagai penjuru dunia juga kagum akan keindahan alam Indonesia. Hutan-hutan yang hijau dan asri, gunung-gunung yang menjulang tinggi, sawah-sawah yang menghampar luas, pantai-pantai yang putih, dan lautan yang luas membiru menjadi daya tarik yang memanjakan mata. \n Namun, keindahan itu ternyata juga menyimpan potensi bencana. Silakan lihat rambu-rambu pada layar di samping.</item>
+        <item>Hari ini kita akan belajar menelusuri informasi menarik seputar manfaat dan jenis-jenis teknologi internet. Kalian pasti penasaran, ada apa saja di balik teknologi internet yang hampir setiap hari kita pakai ini. \n Mari kita mulai dengan membaca artikel dari “Google” untuk mencari informasi di Internet.</item>
+    </string-array>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="dummy_content_article">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="dummy_soal">Apakah ini sebuah pertanyaan? Jelaskan jika memang ini pertanyaan!</string>
+</resources>

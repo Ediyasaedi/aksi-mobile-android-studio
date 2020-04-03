@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#00A2FF</color>
+
+    <color name="blue_one">#1b262c</color>
+    <color name="blue_two">#0f4c75</color>
+    <color name="blue_three">#3282b8</color>
+    <color name="blue_four">#bbe1fa</color>
+
+    <color name="purple_one">#3e206d</color>
+    <color name="purple_two">#916dd5</color>
+    <color name="purple_three">#d89cf6</color>
+    <color name="purple_four">#f0e3ff</color>
+
+    <color name="dark_yellow">#FFC50C</color>
+    <color name="color_red">#EE220C</color>
+    <color name="button_onclick">#C21807</color>
+    <color name="button_onclick_grey">#737373</color>
+    <color name="color_lightgray">#dedede</color>
+    <color name="green_success">#00e500</color>
+    <color name="textcolor">@android:color/black</color>
+    <color name="color_orange">#f24400</color>
+    <color name="color_darkgrey">#424242</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#00A2FF</color>
+    <color name="twitterBlue">#A7AFB2</color>
+    <color name="googleRed">#EE220C</color>
+    <color name="transparent">#00000000</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="black">#000000</color>
+    <color name="grey">#808080</color>
+    <color name="dimgrey">#696969</color>
+    <color name="darkgrey">#5E5E5E</color>
+    <color name="darkergrey">#555555</color>
+    <color name="lightgrey">#CDCDCD</color>
+    <color name="lightergrey">#d6d5d5</color>
+    <color name="lightestgrey">#e1e1e1</color>
+    <color name="darkerlightergrey">#d5d5d5</color>
+    <color name="textbox_grey">#909090</color>
+    <color name="lightBlack">#151515</color>
+    <color name="fontgrey">#ECECEC</color>
+    <color name="layoutgrey">#A7AFB2</color>
+    <color name="calendar_grey">#555555</color>
+    <color name="darkgreybg">#272827</color>
+    <color name="yellow">#FAE232</color>
+    <color name="menu_grey">#262626</color>
+    <color name="plane_jetstar_orange">#FE5215</color>
+    <color name="bp_flight_table">#383838</color>
+
+</resources>

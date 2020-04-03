@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433778709974",
+    "firebase_url": "https://aksiwebandmobile.firebaseio.com",
+    "project_id": "aksiwebandmobile",
+    "storage_bucket": "aksiwebandmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433778709974:android:142b5927604c8887238077",
+        "android_client_info": {
+          "package_name": "com.iceka.aksimobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433778709974-v5io93uaol16o2kbfptst1l4b40ktvs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iceka.aksimobile",
+            "certificate_hash": "363a0f85c2ddc1db573befb1d5086308e9ccf290"
+          }
+        },
+        {
+          "client_id": "433778709974-mgveadpo9japedl59jaga17sjgco1fie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLmMXRxn3Ffi0o6AZ7zuMCXplDDExg8G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433778709974-mgveadpo9japedl59jaga17sjgco1fie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

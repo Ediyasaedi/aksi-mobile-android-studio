@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:padding="10dip"
+    android:weightSum="100"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_wacana"
+        android:layout_weight="90"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="HOAKS"
+        android:padding="2dp"
+        android:background="@color/blue_three"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:layout_gravity="center_vertical"/>
+
+    <TextView
+        android:id="@+id/tvskorhasil"
+        android:layout_weight="10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:layout_marginStart="10dp"
+        android:textColor="@android:color/black"
+        android:text="100"
+        android:layout_gravity="center_vertical"
+        android:textSize="16sp" />
+
+
+</LinearLayout>
